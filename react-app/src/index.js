@@ -8,7 +8,7 @@ import Login from './components/classComponents/login';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <div>
-    <Login/>
+    <App></App>
   </div>
 );
 
